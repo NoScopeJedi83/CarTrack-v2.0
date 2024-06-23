@@ -12,6 +12,10 @@ Whether you're a car enthusiast, a prospective buyer, or simply appreciate the b
 ### Filtering and Sorting: Easy navigation based on brand, model and year.
 ### Interactive: Enjoy interactive elements like image galleries and dynamic details.
 
+
+### Easter Egg: Tap on the Car track logo and get fully immersed in the full Car track experience. 
+
+
 # Collaborator's:
 
 ### [Yash](https://github.com/Yash9891)
